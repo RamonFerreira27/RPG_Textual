@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9a5fb17d93716c24aa1236ac2cfaee07, type: 3}
+  m_Name: A.1.1.2
+  m_EditorClassIdentifier: 
+  storyText: "Algumas horas depois, voc\xEAs encontram uma flecha extremamente ornamentada
+    e com algumas runas talhadas na ponta dela: \"Sim, \xE9 isso!\" - exclamou William.\r\nEle
+    te explica que, ao acertar a flecha no amaldi\xE7oado, isso purificaria o alvo,
+    por\xE9m... deve ser acertada exatamente na testa dele, pois h\xE1 um s\xEDmbolo
+    encantado l\xE1. \r\nA busca demorou tempo o suficiente para que a noite chegasse,
+    e logo voc\xEAs percebem algo vindo bem r\xE1pido em sua dire\xE7\xE3o, ent\xE3o
+    tome uma a\xE7\xE3o:\r\n\r\n1 - Sacar sua espada e avan\xE7ar, porque \xE9 melhor
+    debilitar a criatura para garantir o acerto da flecha.\r\n2 - Preparar um belo
+    disparo de precis\xE3o, pois nunca se sabe quando outra oportunidade vir\xE1."
+  nextStates:
+  - {fileID: 11400000, guid: b3894a2c9cb83a74db6cea1ca776c874, type: 2}
+  - {fileID: 11400000, guid: d18e83aed33543a4494dd7bb7e4a8c12, type: 2}

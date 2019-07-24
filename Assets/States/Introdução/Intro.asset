@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9a5fb17d93716c24aa1236ac2cfaee07, type: 3}
+  m_Name: Intro
+  m_EditorClassIdentifier: 
+  storyText: "Bem-vindo ao meu jogo.\n\nEle se trata de um RPG de escolhas, em que
+    \xE9 dada uma situa\xE7\xE3o e op\xE7\xF5es para que voc\xEA lide com as mesmas.\n\nAperte
+    a tecla correspondente a op\xE7\xE3o desejada (1 ou 2) para avan\xE7ar na hist\xF3ria.\n\nPor
+    favor, aperte 1 para continuar."
+  nextStates:
+  - {fileID: 11400000, guid: 776420ba121351349af9f5902fb9e482, type: 2}

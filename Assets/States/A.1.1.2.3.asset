@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9a5fb17d93716c24aa1236ac2cfaee07, type: 3}
+  m_Name: A.1.1.2.3
+  m_EditorClassIdentifier: 
+  storyText: "A rea\xE7\xE3o da flecha em contato com a marca come\xE7a quase que
+    instantaneamente... e parece perigosa o suficiente para voc\xEA, que se joga l\xE1
+    de cima sem pensar duas vezes.\r\nV\xE1rias raios multicoloridos dan\xE7am no
+    ar de forma assustadora e um grande clar\xE3o logo em seguida.\r\nAp\xF3s isso,
+    voc\xEA percebe que a Besta voltou a ser apenas um javali normal e William lhe
+    conta que foi ele quem o transformou a mando do reino, mas se arrependeu depois
+    dele se libertar e come\xE7ar a causar confus\xE3o nos arredores, prometendo a
+    si mesmo consertar seu erro.\r\nAlguns habitantes da vila que o contratou aparecem
+    para investigar a origem do clar\xE3o, voc\xEA os conta tudo, pega sua recompensa
+    e segue seu caminho.\r\n\r\nAperte ENTER para continuar."
+  nextStates:
+  - {fileID: 11400000, guid: bc84636aecddf1b48952af9d11e4191e, type: 2}

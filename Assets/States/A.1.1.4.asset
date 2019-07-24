@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9a5fb17d93716c24aa1236ac2cfaee07, type: 3}
+  m_Name: A.1.1.4
+  m_EditorClassIdentifier: 
+  storyText: "Depois do golpe, a criatura solta um alto grunhido de dor e come\xE7a
+    a mancar... quem diria que isso funcionaria, n\xE3o \xE9 mesmo? Mas isso faz com
+    que ela fique igualmente enraivecida e com literais chamas nos olhos.\r\nAs tentativas
+    de o acertar continuam, e voc\xEA continua esquivando e a ferindo aos poucos,
+    por\xE9m finalmente ela tem sucesso e te joga para o alto com uma cabe\xE7ada,
+    mas ironicamente voc\xEA consegue se agarrar e montar nela.\r\nVoc\xEA est\xE1
+    ao alcance da testa, o pr\xF3ximo ataque poder\xE1 ser o seu \xFAltimo, ent\xE3o
+    escolha com sabedoria:\r\n\r\n1 - Acabar com isso de uma vez por todas e fincar
+    sua l\xE2mina o mais profundo poss\xEDvel. \r\n2 - Seguir o conselho de William
+    e espetar a flecha purificadora."
+  nextStates:
+  - {fileID: 11400000, guid: 2b63aae2929627248b9edeb68dcfafa0, type: 2}
+  - {fileID: 11400000, guid: 917eca79239891d49aee0a153f9ea571, type: 2}

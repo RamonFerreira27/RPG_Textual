@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9a5fb17d93716c24aa1236ac2cfaee07, type: 3}
+  m_Name: A.1.2.1
+  m_EditorClassIdentifier: 
+  storyText: "Assim que voc\xEA entra, percebe que existem v\xE1rias marcas nas paredes,
+    como se algo estivesse muito irritado e descontou nelas. Tamb\xE9m percebe algumas
+    ossadas que, para seu infort\xFAnio, eram humanoides.\r\nVoc\xEA sente um ar quente
+    vindo de tr\xE1s e, enquanto se vira lentamente, se d\xE1 conta de que a Besta
+    foi mais esperta e te esperou cair na armadilha.\r\nO que vo... ah, a quem estou
+    tentando enganar? s\xF3 tem uma op\xE7\xE3o v\xE1lida, nesse caso:\r\n\r\n1 -
+    CORRER!\r\n2 - CORRER MAIS AINDA!!"
+  nextStates:
+  - {fileID: 11400000, guid: 4602226bd0827cf479e3ade59fc6aa88, type: 2}
+  - {fileID: 11400000, guid: 4602226bd0827cf479e3ade59fc6aa88, type: 2}

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9a5fb17d93716c24aa1236ac2cfaee07, type: 3}
+  m_Name: A.1
+  m_EditorClassIdentifier: 
+  storyText: "Voc\xEA n\xE3o perdeu tempo e seguiu a Besta enquanto o rastro ainda
+    estava fresco.\r\nDepois de um tempo, voc\xEA come\xE7a a sentir um odor forte
+    e p\xFAtrido e percebe que chegou em uma clareira infestada de cad\xE1veres das
+    v\xEDtimas de seu alvo, tanto animais quanto humanos.\r\nNo meio disso tudo, voc\xEA
+    v\xEA um homem revirando alguns dos corpos humanos, o que voc\xEA faz?\r\n\r\n1
+    - Ir falar com o homem.\r\n2 - Ignor\xE1-lo e continuar seguindo o rastro."
+  nextStates:
+  - {fileID: 11400000, guid: 7ffd69e08efa5a84e898d69161e4dca2, type: 2}
+  - {fileID: 11400000, guid: 93f73837511e5bb46b3c1358bf42fe3d, type: 2}

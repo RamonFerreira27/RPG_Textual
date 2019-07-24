@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9a5fb17d93716c24aa1236ac2cfaee07, type: 3}
+  m_Name: A.1.1.5
+  m_EditorClassIdentifier: 
+  storyText: "A l\xE2mina est\xE1 t\xE3o fundo na cabe\xE7a do javali, que ele come\xE7a
+    a correr descontroladamente em dire\xE7\xF5es aleat\xF3rias, enquanto voc\xEA
+    tenta se segurar para n\xE3o ser jogado longe.\r\nO mesmo corre at\xE9 um penhasco
+    e voc\xEA pula no \xFAltimo instante para n\xE3o cair de cara no rochedo que havia
+    l\xE1 embaixo.\r\nA maldi\xE7\xE3o n\xE3o foi retirada, mas sua miss\xE3o era
+    matar a criatura, ent\xE3o n\xE3o podemos negar que ela foi cumprida.\r\nMesmo
+    com a curiosidade sobre tal maldi\xE7\xE3o aparecendo constantemente na sua mente,
+    voc\xEA pega a recompensa e segue seu caminho.\r\n\r\nAperte ENTER para continuar."
+  nextStates:
+  - {fileID: 11400000, guid: bc84636aecddf1b48952af9d11e4191e, type: 2}

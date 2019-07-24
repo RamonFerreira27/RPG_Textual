@@ -1,0 +1,9 @@
+Você é um aventureiro contratado para caçar a Besta de Westfold, uma criatura demoníaca que se assemelha
+a um javali gigante, com uma inteligência acima do normal e que vem destruindo plantações e devorando o gado dos fazendeiros da região.
+A Besta costuma caçar apenas ao anoitecer, mas lhe informaram de que a mesma já foi avistada rondando
+na floresta em alguns momentos aleatórios do dia.
+
+Você tem a opção de tentar encontrá-la ou montar uma emboscada e esperar por ela, o que fará?
+
+1 - Entrar na floresta e seguir seus rastros.
+2 - Montar a armadilha e esperar até a noite pelo avanço do alvo.

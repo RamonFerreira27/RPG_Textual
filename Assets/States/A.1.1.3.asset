@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9a5fb17d93716c24aa1236ac2cfaee07, type: 3}
+  m_Name: A.1.1.3
+  m_EditorClassIdentifier: 
+  storyText: "Mal d\xE1 tempo de sacar sua espada, pois a Besta j\xE1 entrou furiosamente
+    na clareira investindo contra voc\xEA, por\xE9m gra\xE7as a uma esquiva precisamente
+    executada, consegue sair sem muitos ferimentos.\r\nAntes mesmo de pensar em se
+    levantar, percebe que a criatura est\xE1 dando a volta para tentar outra investida,
+    ent\xE3o n\xE3o perca tempo e aja!\r\n\r\n1 - Atacar as patas dela quando vier
+    em sua dire\xE7\xE3o.\r\n2 - Tentar o tiro milagroso com a flecha mais milagrosa
+    ainda."
+  nextStates:
+  - {fileID: 11400000, guid: e41eb4035cc95734a8b1caa1c85098e2, type: 2}
+  - {fileID: 11400000, guid: d18e83aed33543a4494dd7bb7e4a8c12, type: 2}

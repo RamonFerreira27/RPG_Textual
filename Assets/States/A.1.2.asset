@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9a5fb17d93716c24aa1236ac2cfaee07, type: 3}
+  m_Name: A.1.2
+  m_EditorClassIdentifier: 
+  storyText: "Depois que voc\xEA, literalmente, d\xE1 as costas para o homem e segue
+    por 1 hora a frente, percebe que chegou numa caverna na base de uma montanha.\r\nEla
+    parece grande o suficiente para ser a morada de seu alvo, ent\xE3o o que vai fazer?\r\n\r\n1
+    - Adentrar na caverna e investigar mais;\r\n2 - Aguardar e fazer uma emboscada."
+  nextStates:
+  - {fileID: 11400000, guid: 3dab9590ca2dfb04aad66749e202f33f, type: 2}
+  - {fileID: 11400000, guid: c4f7298d9d7c2a147b0c1f9d001348ed, type: 2}

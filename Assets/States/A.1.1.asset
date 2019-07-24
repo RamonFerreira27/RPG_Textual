@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9a5fb17d93716c24aa1236ac2cfaee07, type: 3}
+  m_Name: A.1.1
+  m_EditorClassIdentifier: 
+  storyText: "No momento em que o homem percebe algo vindo na sua dire\xE7\xE3o, ele
+    instantaneamente projeta uma bola de fogo contra voc\xEA por\xE9m, felizmente,
+    ele estava assustado o suficiente para que ele errasse a magia.\r\nAp\xF3s perceber
+    que voc\xEA n\xE3o era a besta, ele solta um grande suspiro de al\xEDvio, pede
+    desculpas e explica a situa\xE7\xE3o: \xE9 um mago de nome William, que veio junto
+    a um grupo para domar a criatura e us\xE1-la a favor do reino, mas ela os sobrepujou
+    e dizimou a todos, menos o pr\xF3prio porque usou um feiti\xE7o de invisibilidade
+    e fugiu.\r\nDiz que a fera est\xE1 sobre uma maldi\xE7\xE3o e sabe como retirar,
+    mas precisa de um objeto que est\xE1 no meio dos corpos e pede ajuda para encontrar
+    e retirar a maldi\xE7\xE3o.\r\n\r\n1 - Aceitar o pedido e cooperar com William.\r\n2
+    - Recusar e continuar sozinho."
+  nextStates:
+  - {fileID: 11400000, guid: b956f09712ab73942befcb033da8ba7c, type: 2}
+  - {fileID: 11400000, guid: 93f73837511e5bb46b3c1358bf42fe3d, type: 2}

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9a5fb17d93716c24aa1236ac2cfaee07, type: 3}
+  m_Name: A.1.3
+  m_EditorClassIdentifier: 
+  storyText: "Acima da entrada da caverna, h\xE1 um espa\xE7o perfeito para se esconder
+    e esperar pela criatura.\r\nEnquanto isso, voc\xEA aplica veneno de mant\xEDcora
+    na sua arma, que dizem ser poderoso o suficiente para pelo menos atordoar um drag\xE3o!\r\nDepois
+    de algumas horas ela chega, carregando uma pessoa consigo, muito ferida e pedindo
+    por ajuda. O que vai fazer?\r\n\r\n1 - Aproveitar a oportunidade para atacar.\r\n2
+    - Seguir a Besta e tentar salvar a pessoa.\r"
+  nextStates:
+  - {fileID: 11400000, guid: 9d07cd541e2b87841a7f88d07e6972e8, type: 2}
+  - {fileID: 11400000, guid: 3dab9590ca2dfb04aad66749e202f33f, type: 2}

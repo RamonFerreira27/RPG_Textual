@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9a5fb17d93716c24aa1236ac2cfaee07, type: 3}
+  m_Name: A.1.2.2
+  m_EditorClassIdentifier: 
+  storyText: "A adrenalina gerada pelo medo te fez correr quase t\xE3o r\xE1pido quanto
+    a Besta, infelizmente a caverna lhe era desconhecida, ent\xE3o voc\xEA acaba seguindo
+    qualquer caminho.\r\nNisso nos deparamos com um grande precip\xEDcio e um dilema
+    bem simples: sem sa\xEDda, sem lugar para escapar, um monstro furioso vindo em
+    sua dire\xE7\xE3o.\r\nO que fazer? bem... voc\xEA teve muito tempo para pensar
+    nisso na p\xF3s-vida, j\xE1 que a queda de certo lhe matou.\r\n\r\nAperte ENTER
+    para continuar."
+  nextStates:
+  - {fileID: 11400000, guid: bc84636aecddf1b48952af9d11e4191e, type: 2}
