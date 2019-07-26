@@ -19,6 +19,6 @@ MonoBehaviour:
     l\xE1 embaixo.\r\nA maldi\xE7\xE3o n\xE3o foi retirada, mas sua miss\xE3o era
     matar a criatura, ent\xE3o n\xE3o podemos negar que ela foi cumprida.\r\nMesmo
     com a curiosidade sobre tal maldi\xE7\xE3o aparecendo constantemente na sua mente,
-    voc\xEA pega a recompensa e segue seu caminho.\r\n\r\nAperte ENTER para continuar."
+    voc\xEA pega a recompensa e segue seu caminho.\r\n\r\nAperte 1 para continuar."
   nextStates:
   - {fileID: 11400000, guid: bc84636aecddf1b48952af9d11e4191e, type: 2}

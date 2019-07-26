@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: Text101
+  productName: Flagelo das Feras
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -582,7 +582,7 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   cloudProjectId: bf72b7e1-d391-4863-8345-207073ca01c8
   framebufferDepthMemorylessMode: 0
-  projectName: Text101
+  projectName: Flagelo das Feras
   organizationId: ramonfgregorio
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0

@@ -19,6 +19,6 @@ MonoBehaviour:
     a cuspir sangue, ent\xE3o voc\xEA retira a espada, vai at\xE9 o torso da criatura
     e realiza um golpe fatal em seu cora\xE7\xE3o.\r\nDepois de talhar o olho e a
     presa da criatura, voc\xEA volta ao vilarejo para pegar sua recompensa e depois
-    segue o seu caminho.\r\n\r\nAperte ENTER para continuar."
+    segue o seu caminho.\r\n\r\nAperte 1 para continuar."
   nextStates:
   - {fileID: 11400000, guid: bc84636aecddf1b48952af9d11e4191e, type: 2}

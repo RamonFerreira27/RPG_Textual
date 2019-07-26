@@ -20,8 +20,8 @@ MonoBehaviour:
     mas ironicamente voc\xEA consegue se agarrar e montar nela.\r\nVoc\xEA est\xE1
     ao alcance da testa, o pr\xF3ximo ataque poder\xE1 ser o seu \xFAltimo, ent\xE3o
     escolha com sabedoria:\r\n\r\n1 - Acabar com isso de uma vez por todas e fincar
-    sua l\xE2mina o mais profundo poss\xEDvel. \r\n2 - Seguir o conselho de William
-    e espetar a flecha purificadora."
+    sua l\xE2mina o mais fundo poss\xEDvel. \r\n2 - Seguir o conselho de William e
+    espetar a flecha purificadora."
   nextStates:
   - {fileID: 11400000, guid: 2b63aae2929627248b9edeb68dcfafa0, type: 2}
   - {fileID: 11400000, guid: 917eca79239891d49aee0a153f9ea571, type: 2}

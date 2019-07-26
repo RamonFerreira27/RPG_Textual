@@ -13,11 +13,11 @@ MonoBehaviour:
   m_Name: "A.0 In\xEDcio"
   m_EditorClassIdentifier: 
   storyText: "Voc\xEA \xE9 um aventureiro contratado para ca\xE7ar a Besta de Westfold,
-    uma criatura demon\xEDaca que se assemelha\r\n\ra um javali gigante, por\xE9m
-    corrompido, que vem destruindo planta\xE7\xF5es e devorando o gado dos fazendeiros
-    da regi\xE3o.\r\r\nA Besta costuma ca\xE7ar apenas ao anoitecer, mas lhe informaram
-    de que a mesma j\xE1 foi avistada rondando\r na floresta em alguns momentos aleat\xF3rios
-    do dia.\r\nVoc\xEA adentrar a floresta e seguir os rastros, j\xE1 que lutar no
-    vilarejo seria tanto perigoso quanto te atrasaria.\r\n\r\n1 - Seguir em frente."
+    uma criatura demon\xEDaca que se assemelha\r \ra um javali gigante, por\xE9m corrompido,
+    que vem destruindo planta\xE7\xF5es e devorando o gado dos fazendeiros da regi\xE3o.\r\r\nA
+    Besta costuma ca\xE7ar apenas ao anoitecer, mas lhe informaram de que a mesma
+    j\xE1 foi avistada rondando\r na floresta em alguns momentos aleat\xF3rios do
+    dia.\r\nVoc\xEA adentrar a floresta e seguir os rastros, j\xE1 que lutar no vilarejo
+    seria tanto perigoso quanto te atrasaria.\r\n\r\n1 - Seguir em frente."
   nextStates:
   - {fileID: 11400000, guid: fd224a3f059ddf24c89dd9090ecdf32a, type: 2}

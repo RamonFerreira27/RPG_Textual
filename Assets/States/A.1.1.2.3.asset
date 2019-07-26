@@ -21,6 +21,6 @@ MonoBehaviour:
     dele se libertar e come\xE7ar a causar confus\xE3o nos arredores, prometendo a
     si mesmo consertar seu erro.\r\nAlguns habitantes da vila que o contratou aparecem
     para investigar a origem do clar\xE3o, voc\xEA os conta tudo, pega sua recompensa
-    e segue seu caminho.\r\n\r\nAperte ENTER para continuar."
+    e segue seu caminho.\r\n\r\nAperte 1 para continuar."
   nextStates:
   - {fileID: 11400000, guid: bc84636aecddf1b48952af9d11e4191e, type: 2}

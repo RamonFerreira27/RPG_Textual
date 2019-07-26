@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   storyText: "Bem-vindo ao meu jogo.\n\nEle se trata de um RPG de escolhas, em que
     \xE9 dada uma situa\xE7\xE3o e op\xE7\xF5es para que voc\xEA lide com as mesmas.\n\nAperte
-    a tecla correspondente a op\xE7\xE3o desejada (1 ou 2) para avan\xE7ar na hist\xF3ria.\n\nPor
-    favor, aperte 1 para continuar."
+    a tecla correspondente a op\xE7\xE3o desejada (1 ou 2) para avan\xE7ar na hist\xF3ria.\nPressione
+    ESC a qualquer momento se desejar sair do jogo.\n\nPor favor, aperte 1 para continuar."
   nextStates:
   - {fileID: 11400000, guid: 776420ba121351349af9f5902fb9e482, type: 2}

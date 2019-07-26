@@ -20,16 +20,18 @@ public class AdventureGame : MonoBehaviour {
     // Update is called once per frame
     void Update() {
         ManageState();
+        if (Input.GetKey(KeyCode.Escape)) {
+            Application.Quit();
+        }
     }
 
     private void ManageState() {
         var nextStates = state.GetNextStates();
 
-        if(Input.GetKeyDown(KeyCode.Alpha1) || Input.GetKeyDown(KeyCode.Keypad1)) {
-            state = nextStates[0];
-        }
-        else if(Input.GetKeyDown(KeyCode.Alpha2) || Input.GetKeyDown(KeyCode.Keypad2)) {
-            state = nextStates[1];
+        for(int i = 0; i < nextStates.Length; i++) {
+            if (Input.GetKeyDown(KeyCode.Alpha1 + i) || Input.GetKeyDown(KeyCode.Keypad1 + i)) {
+                state = nextStates[i];
+            }
         }
         textComponent.text = state.GetStateStory();
     }
